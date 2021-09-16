@@ -4,7 +4,7 @@
 Cześć, nazywam się Marcin Sroczyński, jestem początkującym programistą, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałem dotychczas przyjemność wykonać. 
 <center>
 
-![marcin3](img/marcin3.jpg)
+![marcin3](marcin3.jpg) 
 
   </center>
 
