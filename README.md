@@ -66,7 +66,7 @@ Programowanie to nie wszystko, w wolnym czasie eksploruję polsko-czeskie Karkon
 
 <center>
 
-![mountains](mountains.jpg)
+![mountains](mountains.JPG)
 
 </center>
   
