@@ -9,7 +9,7 @@ Cześć, nazywam się Marcin Sroczyński, jestem początkującym programistą, w
   </center>
 
 ## Programowanie
- Zawsze lubiłem rozwiązywać problemy oraz ułatwiać sobie powtarzalne czynności. Moim zdaniem programowanie to jedno ze wyjątkowych narzędzi, które pozwala sprawić, że nasze życie staje się przyjemniejsze. Po wielu latach pracy w branży logistycznej, postanowiłem spróbować swoich sił w programowaniu , zgłębiając podstawy języka Java, by nastepnie pod okiem mentorów w Software Development Academy skupić sie na rozwoju w kierunku developera języka Java.
+ Zawsze lubiłem rozwiązywać problemy oraz ułatwiać sobie powtarzalne czynności. Moim zdaniem programowanie to jedno z wyjątkowych narzędzi, które pozwala sprawić, że nasze życie staje się przyjemniejsze. Po wielu latach pracy w branży logistycznej, postanowiłem spróbować swoich sił w programowaniu , zgłębiając podstawy języka Java, by nastepnie pod okiem mentorów w Software Development Academy skupić sie na rozwoju w kierunku developera języka Java.
  
  ## Kurs Software Development Academy
 Miałem przyjemność uczestniczyć w kursie "Java od Podstaw" organizowanym przez Software Development Academy. Przez ponad 350 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę z następujacych tematów:
