@@ -56,7 +56,23 @@ w czasie rozwijania moich projektów.
 
 <center>
 
-![profile](img/technical_skills.png)
+![technical_skills](technical_skills.png)
 
 </center>
 
+  ## Zainteresowania
+Programowanie to nie wszystko, w wolnym czasie eksploruję polsko-czeskie Karkonosze .
+
+<center>
+
+![mountains]()
+
+</center>
+  
+  ## Kontakt
+
+Skontaktuj się ze mną mailowo: sroko1marcin@o2.pl
+
+Linkedin: [Marcin Sroczyński](http://www.linkedin.com)
+
+  
