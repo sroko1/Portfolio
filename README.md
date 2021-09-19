@@ -16,14 +16,14 @@ Miałem przyjemność uczestniczyć w kursie "Java od Podstaw" organizowanym prz
 
 <center>
 
-  ## Git oraz HTTP
+## Git oraz HTTP
 W czasie kursu nauczyłem się nie tylko programować, ale rozwijałem swoje umiejętności w wielu kierunkach między innymi:
 
 * Nauczyłem się pracy z Narzędziem GIT (oraz Github)
 
 * Nauczyłem się podstaw REST API oraz narzędzi sieciowych, dzięki czemu w przyszłej pracy, będę mógł stanowić wsparcie w czasie procesu debugowania back-end'u.
 
-  ## Testowanie Oprogramowania
+## Testowanie Oprogramowania
 Wiem, że współczesne projekty powinny się charakteryzować nie tylko dobrze zaprojektowaną, skalowalną oraz łatwo utrzymywalną archiekturą ale także powinny być 
 odpowiednio przetestowane na poziomie testów jednostkowych oraz integracyjnych. Nauczyłem się testować własny kod, dzięki czemu zaoszczedziło mi to sporo czasu 
 w czasie rozwijania moich projektów.
