@@ -19,7 +19,7 @@ Miałem przyjemność uczestniczyć w kursie "Java od Podstaw" organizowanym prz
   ## Git oraz HTTP
 W czasie kursu nauczyłem się nie tylko programować, ale rozwijałem swoje umiejętności w wielu kierunkach między innymi:
 
-* Nauczyłem się pracy z Narzędziem GIT (oraz Gitlab)
+* Nauczyłem się pracy z Narzędziem GIT (oraz Github)
 
 * Nauczyłem się podstaw REST API oraz narzędzi sieciowych, dzięki czemu w przyszłej pracy, będę mógł stanowić wsparcie w czasie procesu debugowania back-end'u.
 
@@ -49,7 +49,7 @@ w czasie rozwijania moich projektów.
 
 * Training With API (Sample With Angular)
   
-* Ristorante (HTML)
+* Resume (HTML)
 
 
 ## Technologie
@@ -61,11 +61,12 @@ w czasie rozwijania moich projektów.
 </center>
 
   ## Zainteresowania
+  
 Programowanie to nie wszystko, w wolnym czasie eksploruję polsko-czeskie Karkonosze .
 
 <center>
 
-![mountains]()
+![mountains](mountains.jpg)
 
 </center>
   
