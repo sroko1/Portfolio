@@ -74,6 +74,6 @@ Programowanie to nie wszystko, w wolnym czasie eksploruję polsko-czeskie Karkon
 
 Skontaktuj się ze mną mailowo: sroko1marcin@o2.pl
 
-Linkedin: [Marcin Sroczyński](http://www.linkedin.com)
+Linkedin: [Marcin Sroczyński](https://www.linkedin.com/in/marcin-sroczy%C5%84ski-194252215/)
 
   
