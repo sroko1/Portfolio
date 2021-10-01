@@ -31,9 +31,9 @@ w czasie rozwijania moich projektów.
 ## Zadania, które wykonywałem w czasie kursu:
 <center>
 
-[Podstawy Java](Podstawy Java) | [Testowanie Oprogramowania](Testowanie Oprogramowania) | [Wzorce Projektowe](Wzorce Projektowe) |
-[JDBC Hibernate](JDBC Hibernate) | [Technologie Frontendowe](Technologie Frontendowe) | [Spring](Spring) |
-[Bazy Danych oraz SQL](Bazy Danych oraz SQL)
+[Podstawy Java](https://www.java.com/pl/about/) | [Testowanie Oprogramowania](https://testerzy.pl/baza-wiedzy/testowanie-oprogramowania) | [Wzorce Projektowe](https://refactoring.guru/pl/design-patterns) |
+[JDBC Hibernate](https://hibernate.org/) | [Technologie Frontendowe](https://it-solve.pl/front-end-development-technologie-i-koncepcje/) | [Spring](https://spring.io/) |
+[Bazy Danych oraz SQL](https://vavatech.pl/technologie/bazy-danych/mysql)
 
 </center>
   
