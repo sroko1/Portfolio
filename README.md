@@ -40,6 +40,8 @@ w czasie rozwijania moich projektów.
 ## Moje projekty
 
 * New Bins Rotation
+  
+* Quiz
 
 * Stacja Pogody Hibernate
 
