@@ -16,6 +16,11 @@ Miałem przyjemność uczestniczyć w kursie "Java od Podstaw" organizowanym prz
 
 <center>
 
+![java_certyfikat](java_certyfikat.png) 
+
+</center>
+
+
 ## Git oraz HTTP
 W czasie kursu nauczyłem się nie tylko programować, ale rozwijałem swoje umiejętności w wielu kierunkach między innymi:
 
