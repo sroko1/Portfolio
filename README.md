@@ -16,7 +16,7 @@ Miałem przyjemność uczestniczyć w kursie "Java od Podstaw" organizowanym prz
 
 <center>
 
-![java_certyfikat](java_certyfikat.png) 
+![java_certyfikat](cert_java.png) 
 
 </center>
 
